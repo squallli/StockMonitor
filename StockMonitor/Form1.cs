@@ -16,5 +16,14 @@ namespace StockMonitor
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            clsStockAnalyze analyze = new clsStockAnalyze();
+            analyze.股票代號 = "otc_5478";
+
+            System.Threading.Thread t = new System.Threading.Thread(analyze.Start);
+            t.Start();
+        }
     }
 }

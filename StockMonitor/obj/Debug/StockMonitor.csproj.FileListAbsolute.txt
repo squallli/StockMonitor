@@ -1,2 +1,11 @@
 C:\Users\squalllee\AppData\Local\Temporary Projects\StockMonitor\bin\Debug\StockMonitor.exe.config
 C:\Users\squalllee\Desktop\StockMonitor\StockMonitor\bin\Debug\StockMonitor.exe.config
+C:\Users\squalllee\Desktop\StockMonitor\StockMonitor\bin\Debug\StockMonitor.exe
+C:\Users\squalllee\Desktop\StockMonitor\StockMonitor\bin\Debug\StockMonitor.pdb
+C:\Users\squalllee\Desktop\StockMonitor\StockMonitor\obj\Debug\StockMonitor.csprojResolveAssemblyReference.cache
+C:\Users\squalllee\Desktop\StockMonitor\StockMonitor\obj\Debug\StockMonitor.Form1.resources
+C:\Users\squalllee\Desktop\StockMonitor\StockMonitor\obj\Debug\StockMonitor.Properties.Resources.resources
+C:\Users\squalllee\Desktop\StockMonitor\StockMonitor\obj\Debug\StockMonitor.csproj.GenerateResource.Cache
+C:\Users\squalllee\Desktop\StockMonitor\StockMonitor\obj\Debug\StockMonitor.exe
+C:\Users\squalllee\Desktop\StockMonitor\StockMonitor\obj\Debug\StockMonitor.pdb
+C:\Users\squalllee\Desktop\StockMonitor\StockMonitor\bin\Debug\Newtonsoft.Json.dll
