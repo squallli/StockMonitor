@@ -1,0 +1,2 @@
+C:\Users\squalllee\AppData\Local\Temporary Projects\StockMonitor\bin\Debug\StockMonitor.exe.config
+C:\Users\squalllee\Desktop\StockMonitor\StockMonitor\bin\Debug\StockMonitor.exe.config
